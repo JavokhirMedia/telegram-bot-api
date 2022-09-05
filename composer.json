@@ -1,0 +1,30 @@
+{
+  "name": "javokhirmedia/telegram-bot-private-framework",
+  "description": "Framework for Telegram Bots",
+  "license": "MIT",
+  "keywords": [
+    "Telegram Bot",
+    "TG Bots",
+    "Telegram Bot Framework",
+    "BotApp",
+    "BotPlugins"
+  ],
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Javokhir-Media",
+      "email": "raxmonberganovj@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\JavokhirMedia\\": "/src"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-mysqli": "*"
+  }
+}
