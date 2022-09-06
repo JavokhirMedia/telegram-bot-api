@@ -1,4 +1,3 @@
-# Telegram-BOT-API
 <h1 align="center">Telegram-Bot-API - micro framework</h1>
 
 [![API](https://img.shields.io/badge/Telegram-BOT-API-September%2006%2C%202022-36ade1.svg)](https://core.telegram.org/bots/api)
@@ -10,5 +9,3 @@
 	<br>
 	<a href="https://telegram.me/rakhmonberganov">Telegram Support Group</a> <b>Telegram Guruximiz</b> 
 </div>
-
-Copyright © 2022 Javokhir-Media
