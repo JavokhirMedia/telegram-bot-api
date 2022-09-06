@@ -3,6 +3,7 @@
 ![PHP](https://img.shields.io/badge/php-%3E%3D7.4-8892bf.svg)
 ![CURL](https://img.shields.io/badge/cURL-required-green.svg)
 ![JSON](https://img.shields.io/badge/JSON-required-blue.svg)
+![MySQL](https://img.shields.io/badge/MySQL-not-required-pink.svg)
 
 <div align="center">
 	<a href="https://core.telegram.org/bots/api">Telegram Bot API</a> <b>Foydalanish uchun yaratilgan</b> 
