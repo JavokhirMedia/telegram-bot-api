@@ -7,5 +7,5 @@
 <div align="center">
 	<a href="https://core.telegram.org/bots/api">Telegram Bot API</a> <b>Foydalanish uchun yaratilgan</b> 
 	<br>
-	<a href="https://telegram.me/rakhmonberganov">Telegram Support Group</a> <b>Telegram Guruximiz</b> 
+	<a href="https://telegram.me/rakhmonberganov">Telegram Support</a> <b>Telegramdan murojaat</b> 
 </div>
